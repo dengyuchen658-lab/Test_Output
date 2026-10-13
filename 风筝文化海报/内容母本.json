@@ -1,0 +1,34 @@
+{
+  "project": {"canvas":{"width":3840,"height":2160},"format":"PNG","ratio":"16:9","nature":"课程测试，非真实机构主办"},
+  "languages": {
+    "zh": {
+      "organizer":"城市文化中心",
+      "title":"风起鸢成：潍坊风筝制作技艺数字艺术展",
+      "heritage":"国家级非物质文化遗产代表性项目：风筝制作技艺（潍坊风筝）",
+      "tagline":"工艺线索：扎、绘、糊、放",
+      "dates":"展期 2026年12月12日至2027年3月14日",
+      "hours":"周二至周日 10:00-20:00，19:00停止入场；周一闭馆",
+      "venue":"",
+      "cta":"免费参观，须提前预约"
+    },
+    "en": {
+      "organizer":"City Cultural Center",
+      "title":"Where Wind Takes Form: A Digital Art Exhibition of Weifang Kite-Making Craft",
+      "heritage":"National-level Intangible Cultural Heritage: Weifang Kite-Making Craft",
+      "tagline":"Craft process: frame, paint, paste and fly",
+      "dates":"12 December 2026 - 14 March 2027",
+      "hours":"Tuesday-Sunday, 10:00-20:00; last entry 19:00; closed Mondays",
+      "venue":"",
+      "cta":"Free admission with advance reservation"
+    }
+  },
+  "required_fields":["organizer","title","heritage","tagline","dates","hours","cta"],
+  "copy_approval": {"zh":{"status":"pending","confirmed_by":"","copy_sha256":""},"en":{"status":"pending","confirmed_by":"","copy_sha256":""}},
+  "sources": {
+    "copy":"文化_统一测试材料/文化_统一测试任务书.pdf 第1–2页 C01–C07。英文采用表格母本的 Kite-Making 拼写，而非页首概述。",
+    "visual":"文化_统一测试资料包/01_风筝素材/2.jpg，imagegen参考合成；主视觉为艺术处理，不作为馆藏实物记录。",
+    "logo":"文化_统一测试资料包/02_机构标识/城市文化中心_LOGO.svg，保留符号路径；机构名按海报语言排版。",
+    "culture":"文化_统一测试资料包/03_文化背景/潍坊风筝文化背景.pdf。仅用于视觉理解，无新增历史事实。"
+  },
+  "missing":{"venue":"资料未给具体展览地址，当前版不印地点。","reservation":"资料未给预约链接或二维码，当前版只保留预约要求。"}
+}
